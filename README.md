@@ -1,6 +1,6 @@
 # picture2graph
 
-Use this script to convert raster graphs into continuous functions. Requires manually placing a bezier curve on the image.
+Use this script to convert raster graphs into continuous functions. Requires manually placing a bezier curve on the image. I use this to extract spectral response wavelengths from LED specsheets, but it can be used anywhere where the data for a graph you see can't be got, like when replicating published results.
 
 The python code is in [process_bezier_svg.ipynb](../master/process_bezier_svg.ipynb)
 
