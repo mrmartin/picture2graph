@@ -12,8 +12,11 @@ How it works:
 3. use InkScape (or whatever) to import the graph, and draw a bezier curve on top. Make sure to start and end the curve at marked edges
 
 ![alt text](../master/inkscape.png "Inkscape screenshot")
+
 4. remove the image from InkScape, and save the svg
+
 5. use the [python code](../master/process_bezier_svg.ipynb) to convert the svg to a path
+
 6. Don't forget to set your x-range and y-range
 
 ![alt text](../master/result.png "Result")
