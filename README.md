@@ -2,6 +2,8 @@
 
 Use this script to convert raster graphs into continuous functions. Requires manually placing a bezier curve on the image.
 
+The python code is in [process_bezier_svg.ipynb](../master/process_bezier_svg.ipynb)
+
 How it works:
 1. start with a [spec sheet](../master/334-15__T1C1-4WYA.pdf)
 2. get a screenshot of your graph, like this
