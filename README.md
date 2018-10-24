@@ -3,8 +3,9 @@
 Use this script to convert raster graphs into continuous functions. Requires manually placing a bezier curve on the image.
 
 How it works:
-1. start with a [spec sheet](../blob/master/334-15__T1C1-4WYA.pdf)
+1. start with a [spec sheet](../master/334-15__T1C1-4WYA.pdf)
 2. get a screenshot of your graph, like this
+
 ![alt text](../blob/master/Screenshot_2018-10-24 Microsoft Word - 334-15-T1C1-4WYA doc - 334-15__T1C1-4WYA pdf.png
  "Raster graph")
 3. use InkScape (or whatever) to import the graph, and draw a bezier curve on top. Make sure to start and end the curve at marked edges
