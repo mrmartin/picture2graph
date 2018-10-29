@@ -23,4 +23,5 @@ How it works:
 
 An example application if the convertsion of the sensitivity of human eye color receptors to a continuous function
 
-![alt text](../master/human_vision_berkeley_cecilia77.png "Input") ![alt text](../master/human_vision_berkeley_cecilia77_output.png "Output")
+<img src="../master/human_vision_berkeley_cecilia77.png" alt="Input" width="381"/>
+![alt text](../master/human_vision_berkeley_cecilia77_output.png "Output")
