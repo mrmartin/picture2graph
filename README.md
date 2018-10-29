@@ -20,3 +20,5 @@ How it works:
 6. Don't forget to set your x-range and y-range
 
 ![alt text](../master/result.png "Result")
+
+An example application if the convertsion of the sensitivity of human eye color receptors to a continuous function
